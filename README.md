@@ -1,6 +1,5 @@
-## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building AI-powered tools for Indian MSMEs, starting with Bharat-Biz-Agent — a conversational business operating system that simplifies inventory, billing, and operations using natural language.<br><br>👯 I’m looking to collaborate on<br><br>AI + Automation products<br><br>Open-source SaaS tools<br><br>MSME digitization solutions<br><br>FastAPI / Full-stack AI systems<br><br>Hackathon & startup ideas with real-world impact<br><br>🤝 I’m looking for help with<br><br>Scaling AI systems for production<br><br>SaaS architecture & cloud deployment<br><br>Startup growth strategies<br><br>Open-source community building<br><br>🌱 I’m currently learning<br><br>Advanced system design<br><br>Production-grade Docker & DevOps<br><br>LLM integrations & AI agents<br><br>Building scalable SaaS platforms<br><br>💬 Ask me about<br><br>FastAPI<br><br>Docker & containerization<br><br>AI agents<br><br>Hackathon strategy<br><br>Turning projects into startup ideas<br><br>⚡ Fun fact<br><br>I don’t just build projects — I try to build products that could turn into real startups.
+🔭 I’m currently working on<br><br>Building AI-powered tools for Indian MSMEs — starting with Bharat-Biz-Agent, a conversational business OS.<br><br>👯 I’m looking to collaborate on<br><br>AI products, SaaS tools, and real-world automation systems.<br><br>🤝 I’m looking for help with<br><br>Scaling AI systems, cloud deployment, and startup growth.<br><br>🌱 I’m currently learning<br><br>System design, DevOps, and advanced AI agent architecture.<br><br>💬 Ask me about<br><br>FastAPI, Docker, AI agents, and hackathon strategy.<br><br>⚡ Fun fact<br><br>I build projects with a startup mindset.
 
 
 ## 🌐 Socials:
@@ -19,27 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subrat090605&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Subrat090605&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!--
-**Subrat090605/Subrat090605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
